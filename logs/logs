@@ -1,0 +1,6 @@
+[2025-03-19 09:42:59,704] [46275] [INFO] - example_api.example_api [example_api.py-->line:34] - INFO:json入参数据：{'username': 'example', 'password': 'examplePw'}，data入参数据：None，关联参数数据：None，其他参数数据：{}
+[2025-03-19 09:42:59,704] [46275] [INFO] - example_api.example_api [example_api.py-->line:34] - INFO:json入参数据：{'username': 'example', 'password': 'examplePw'}，data入参数据：None，关联参数数据：None，其他参数数据：{}
+[2025-03-19 09:42:59,704] [46275] [INFO] - example_api.example_api [example_api.py-->line:34] - INFO:json入参数据：{'username': 'example', 'password': 'examplePw'}，data入参数据：None，关联参数数据：None，其他参数数据：{}
+[2025-04-09 13:54:15,949] [91636] [INFO] - example_api.example_api [example_api.py-->line:34] - INFO:json入参数据：{'username': 'example', 'password': 'examplePw'}，data入参数据：None，关联参数数据：None，其他参数数据：{}
+[2025-04-09 13:54:15,949] [91636] [INFO] - example_api.example_api [example_api.py-->line:34] - INFO:json入参数据：{'username': 'example', 'password': 'examplePw'}，data入参数据：None，关联参数数据：None，其他参数数据：{}
+[2025-04-09 13:54:15,949] [91636] [INFO] - example_api.example_api [example_api.py-->line:34] - INFO:json入参数据：{'username': 'example', 'password': 'examplePw'}，data入参数据：None，关联参数数据：None，其他参数数据：{}

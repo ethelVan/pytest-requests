@@ -1,0 +1,8 @@
+{
+  "getToken": [
+    {
+      "username": "example",
+      "password": "examplePw"
+    }
+  ]
+}
